@@ -23,3 +23,4 @@ real projects tak. Yeh repo mera learning journey track karta hai.
 - [x] Day 2 — Calculator, conditionals
 - [x] Day 3 — Comparison operators
 - [x] Day 4 — Conditionals (if/elif/else)
+- [x] Day 5 — [conditionals , loops]
